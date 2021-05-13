@@ -12,9 +12,8 @@ ul {
 
 li {
     display: inline;
-    float: right;
-    margin-right: 20px;
     font-size: 20px;
+    margin-right: 50px;
 }
 
 .hero {
