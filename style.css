@@ -25,10 +25,27 @@ li {
     background-position: center;
 }
 
+.top {
+    
+    font-family: verdana;
+}
+
+.middle {
+    display: flex;
+    flex-wrap: wrap;
+    font-family: verdana;
+}
+
 .comingsoon img{
     height: 200px;
     width: 300px;
 
 
+}
+
+.bottom {
+    
+    
+    font-family: verdana;
 }
 
