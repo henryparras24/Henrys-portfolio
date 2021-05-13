@@ -1,8 +1,30 @@
+header {
+    padding: 75px;
+    font-family: fantasy;
+    background-color: black;
+    color: #ffffff;
+}
+
+ul {
+    list-style-type: none;
+    
+}
+
+li {
+    display: inline;
+    float: right;
+    margin-right: 20px;
+    font-size: 20px;
+}
+
 .hero {
     height: 250px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("sky\ full\ of\ stars.jpg");
+    background-image: url("starsky.jpg");
     background-size: cover;
     background-position: center;
 }
+
+
+
