@@ -39,10 +39,15 @@ li {
     font-family: verdana;
 }
 
+h3 { font-family: verdana;
+
+}
+
+
 .middle {
     display: flex;
     flex-wrap: wrap;
-    font-family: verdana;
+    
 }
 
 .middle img {
