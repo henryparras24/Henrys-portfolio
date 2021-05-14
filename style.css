@@ -1,12 +1,21 @@
 header {
     padding: 75px;
     font-family: fantasy;
+    font-style: italic;
     background-color: black;
     color: #ffffff;
 }
 
+.mj {
+    float: right;
+}
+h1 {
+    margin-bottom: 0;
+}
+
 ul {
     list-style-type: none;
+    display: flex;
     
 }
 
@@ -36,9 +45,14 @@ li {
     font-family: verdana;
 }
 
+.middle img {
+
+    width: 485px;
+}
+
 .comingsoon img{
     height: 200px;
-    width: 300px;
+    width: 240px;
 
 
 }
