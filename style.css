@@ -1,10 +1,14 @@
+*{font-family: 'Comfortaa', cursive;}
+
 header {
     padding: 75px;
-    font-family: fantasy;
-    font-style: italic;
+    
+    
     background-color: black;
     color: #ffffff;
 }
+
+
 
 .mj {
     float: right;
@@ -39,9 +43,7 @@ li {
     font-family: verdana;
 }
 
-h3 { font-family: verdana;
 
-}
 
 
 .middle {
@@ -68,4 +70,6 @@ h3 { font-family: verdana;
     font-family: verdana;
 }
 
-#henry {height: 240px; width: 240px;}
+#henry {height: 240px; width: 240px;
+        border-radius: 25px;
+}
