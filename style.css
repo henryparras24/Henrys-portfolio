@@ -15,6 +15,7 @@ header {
 }
 h1 {
     margin-bottom: 0;
+    margin-left: 12px;
 }
 
 ul {
@@ -38,12 +39,6 @@ li {
     background-position: center;
 }
 
-.top {
-    
-    font-family: verdana;
-}
-
-
 
 
 .middle {
@@ -64,12 +59,12 @@ li {
 
 }
 
-.bottom {
-    
-    
-    font-family: verdana;
-}
+
 
 #henry {height: 240px; width: 240px;
         border-radius: 25px;
+        margin-left: 25px;
+        
 }
+
+.logos {height: 100px; width: 100px; border-radius: 25px;}
