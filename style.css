@@ -59,7 +59,7 @@ li {
 
 }
 
-
+.bottom {display: flex; justify-content: center;}
 
 #henry {height: 240px; width: 240px;
         border-radius: 25px;
@@ -68,3 +68,5 @@ li {
 }
 
 .logos {height: 100px; width: 100px; border-radius: 25px;}
+
+h4 {text-align: center; }
