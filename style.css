@@ -32,17 +32,6 @@ li {
     margin-right: 25px;
 }
 
-/* .hero {
-    height: 500px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("./images/starsky.jpg");
-    background-size: cover;
-    background-position: center;
-} */
-
-
-
 .middle {
     display: flex;
     flex-wrap: wrap;
@@ -57,8 +46,6 @@ li {
 .comingsoon img{
     height: 200px;
     width: 240px;
-
-
 }
 
 .bottom {display: flex; justify-content: center;}
@@ -70,10 +57,14 @@ li {
         
 }
 
-.logos {height: 100px; width: 100px; border-radius: 25px;}
+.logos {height: 50px; width: 50px; border-radius: 10px;}
 
 h4 {text-align: center; }
 
 #henryParras {text-align: center;}
 
 #topsection {display: flex; justify-content: center;}
+
+#contactme {text-align: center;}
+
+#myemail {color: dodgerblue; }
